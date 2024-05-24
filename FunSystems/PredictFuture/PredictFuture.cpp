@@ -2,7 +2,7 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
-#include <limits> // Adicionando esta linha
+#include <limits>
 
 using namespace std;
 
